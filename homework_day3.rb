@@ -16,12 +16,13 @@ stops.count
 
 stops.reverse!
 
-p stops
+for stations in stops
+  puts "Welcome to #{stations}"
+end
 
 
 
 
 
 # How many ways can we return "Falkirk High" from the array?
-# Reverse the positions of the stops in the array
 # Print out all the stops using a for loop
