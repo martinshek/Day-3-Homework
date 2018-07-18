@@ -10,16 +10,15 @@ p stops.index("Linlithgow")
 
 stops.delete("Livingston")
 
+stops.delete_at(2)
+
+
 p stops
 
 
 
 
 
-
-
-
-# Remove "Livingston" from the array using its name
 # Delete "Cumbernauld" from the array by index
 # How many stops there are in the array?
 # How many ways can we return "Falkirk High" from the array?
