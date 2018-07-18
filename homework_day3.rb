@@ -8,13 +8,17 @@ stops.insert(4, 'Polmont')
 
 p stops.index("Linlithgow")
 
+stops.delete("Livingston")
+
+p stops
 
 
 
 
 
 
-# Work out the index position of "Linlithgow"
+
+
 # Remove "Livingston" from the array using its name
 # Delete "Cumbernauld" from the array by index
 # How many stops there are in the array?
